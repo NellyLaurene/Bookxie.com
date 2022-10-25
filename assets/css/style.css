@@ -1,0 +1,81 @@
+
+.bookxie-logo_text {
+    font-size: 25px;
+    font-weight: 500;
+    color: #000000;
+}
+
+.navbar {
+    background-color: #ff7698;
+}
+
+.nav-link.active{
+    border: solid 2px #fe6694;
+    border-radius: 50px;
+    background-color: #ffffff;
+    color: #c73863 !important;
+}
+
+.carousel-inner img{
+    height: 400px;
+    object-fit: cover;
+}
+
+.nav-link{
+    text-align: center;
+}
+
+.navbar form{
+    margin:auto;
+}
+
+.custom-shape-divider-bottom-1666707376 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    z-index: 1;
+}
+
+.custom-shape-divider-bottom-1666707376 svg {
+    position: relative;
+    display: block;
+    width: calc(140% + 1.3px);
+    height: 258px;
+}
+
+.custom-shape-divider-bottom-1666707376 .shape-fill {
+    fill: #f1a2a2a6;
+}
+
+.bookxie-container{
+    margin-top: 20px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.bookxie-card{
+    box-shadow: 10px 10px 5px #8a8586;
+    background-color: #ffffff;
+
+}
+
+.bookxie-card img{
+height: 400px;
+width: 100%;
+object-fit: contain;
+}
+body{
+    background-color: #c7c3c4;
+    /* background-image: url("/assets/img/background.jpg"); */
+}
+
+.bookxie-card{
+    margin-top: 30px;
+}
+
+.btn-primary{
+    background-color: #c73863;
+}
